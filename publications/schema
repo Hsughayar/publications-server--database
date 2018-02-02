@@ -1,0 +1,6 @@
+5
+str:name
+int:date
+str:content
+int:author_id
+int:journal_id

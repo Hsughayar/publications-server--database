@@ -1,0 +1,4 @@
+3
+str:name
+int:type
+str:password_digest
